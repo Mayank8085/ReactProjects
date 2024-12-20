@@ -1,0 +1,16 @@
+html , body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    border-bottom-left-radius: 2rem;
+}
+.box{
+    background-color: rgb(66, 66, 66); 
+    background-color: #052C65;
+    text-align: center;
+}
