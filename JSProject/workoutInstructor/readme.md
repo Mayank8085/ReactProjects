@@ -40,7 +40,6 @@ workoutInstructor/
 ├── index.html        # Main HTML file
 ├── style.css         # CSS styling
 ├── script.js         # JavaScript functionality
-└── assets/           # Contains images and GIFs for exercises
 ```
 
 ## Contributing
