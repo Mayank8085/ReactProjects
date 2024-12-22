@@ -10,6 +10,7 @@ Check out the live application here: [Workout Instructor Live Demo](https://maya
 
 - **Body Part Selection**: Users can select from various body parts to receive targeted exercise suggestions.
 - **Exercise Display**: Once a body part is selected, the app displays a list of exercises accompanied by GIFs demonstrating proper form.
+- **Instruction Button**: Each exercise has an instruction button that provides detailed guidance on how to perform the exercise correctly.
 - **Responsive Design**: The application is designed to be responsive and accessible across different devices.
 
 ## Technologies Used
