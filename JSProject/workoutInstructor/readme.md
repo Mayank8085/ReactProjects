@@ -52,5 +52,3 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 - Exercise GIFs sourced from Exercise DB (Rapid API).
 - Inspired by the desire to make workout planning more accessible and efficient.
 
-<img width="1470" alt="Screenshot 2024-12-22 at 4 34 40 PM" src="https://github.com/user-attachments/assets/aaa3a8aa-aada-4a2f-9946-329153561a02" />
-
