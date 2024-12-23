@@ -21,7 +21,6 @@ Explore the live site: [E-Commerce Live Demo](https://e-commercemayank.vercel.ap
 - **Frontend**: React.js (Functional Components)
 - **State Management**: React Hooks (useState, useEffect)
 - **Styling**: CSS3 (Flexbox, Grid, Responsive Design)
-- **Routing**: React Router for dynamic navigation between pages
 - **Hosting**: Vercel for seamless deployment and live demo
 
 ## How to Run Locally
