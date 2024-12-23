@@ -6,6 +6,9 @@ A fully responsive e-commerce web application designed to showcase products and 
 
 Explore the live site: [E-Commerce Live Demo](https://e-commercemayank.vercel.app/) 
 
+<img width="800" alt="Screenshot 2024-12-23 at 9 04 36 PM" src="https://github.com/user-attachments/assets/bdbd03f0-6f7a-4377-b288-09fb250b3e65" />
+
+
 ## Features
 
 - 🛒 **Dynamic Product Catalog** – Browse through a responsive grid showcasing products with images and pricing.
