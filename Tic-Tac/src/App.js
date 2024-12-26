@@ -83,7 +83,7 @@ const [draw, setDraw] = useState(0)
       console.log(draw)
    }
    if (draw===8) {
-     setWinMessage("match tye")
+     setWinMessage("match tie")
    }
  
  }}
